@@ -6,7 +6,7 @@ const botaoEntrar = document.querySelector('.botao');
 //registrarLink.addEventListener("click", ()=> {
     //console.log(telaLogin);
 //    telaLogin.classList.add("active");
-//});
+
 
 //entrarLink.addEventListener("click", ()=> {    
 //    telaLogin.classList.remove("active");
