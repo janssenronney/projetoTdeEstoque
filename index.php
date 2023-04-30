@@ -9,6 +9,19 @@
    
 </head>
 <body>
+    <?php
+
+        $dsn = 'mysql:host=localhost;dbname=controle_estoque';
+        $usuario =  'root';
+        $senha = '';
+
+        $conexao = new PDO($dsn, $usuario, $senha);
+
+        if ($conexao) {
+            echo 'conectado';
+        };
+    ?>
+
     <header class="cabecalho"> 
     <div>
         <h1 class="titulo-principal">Inventory Control</h1>
