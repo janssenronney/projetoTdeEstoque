@@ -9,7 +9,7 @@
    
 </head>
 <body>
-    <form action="index.html">
+    <form action="index.php">
         <header class="cabecalho-home"> 
             <div>
             </div>    

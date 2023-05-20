@@ -9,7 +9,7 @@
    
 </head>
 <body>
-    <form action="index.html">
+    <form action="index.php">
         <header class="cabecalho-home"> 
             <div>
             </div>    
@@ -20,7 +20,7 @@
     </form>
     <div class="tela-login-home">
         <div>
-            <form action="home.html">
+            <form action="home.php">
             	<h2 class="sub-titulo-home">Registro</h2>
                 <div class="entrada-dados">
                     <span class="icone"><ion-icon name="person-outline"></ion-icon></span>
